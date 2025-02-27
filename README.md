@@ -1,7 +1,7 @@
 <div align="center">
   <img align="left" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hi, I'm Pranav Padmanabhan">
   <h1>Hi, I'm Pranav Padmanabhan</h1>
-  <h3>🤖 Data Scientist | AI/ML Enthusiast | 📈 Business Analytics Expert</h3>
+  <h3>AI/Data Scientist</h3>
   <p>Building Intelligent Systems That Transform Travel Planning</p>
 </div>
 
