@@ -1,110 +1,78 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Pranav Padmanabhan
-
-**🤖 AI Engineer | 🧭 Travel Tech Innovator | 📈 Data Science Solutions Architect**  
-**Building Intelligent Systems That Understand Human Context**
-
-[![LinkedIn](https://img.shields.io/badge/-Connect_Pro-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranav-padmanabhan-903934249/)
-[![Medium](https://img.shields.io/badge/-Read_My_Tech_Blogs-black?style=for-the-badge&logo=medium)](https://medium.com/@pranavpadmanabhan9605)
-[![Portfolio](https://img.shields.io/badge/View-Portfolio-success?style=for-the-badge&logo=react)](https://pranavpadmanabhan.com)
+Below is a professional GitHub profile README tailored to your background and projects:
 
 ---
 
-## 🚀 Technical Value Proposition
+# Hi, I'm Pranav Padmanabhan 👋
 
-I engineer **full-stack AI solutions** that combine cutting-edge ML with business acumen. My production-proven capabilities:
-
-- **Context-Aware NLP**: Building systems that understand human sentiment & semantic context
-- **Geospatial Intelligence**: Creating location-aware recommendation engines
-- **MLOps Architecture**: Designing systems handling 500+ RPM with 99.9% uptime
+I'm a passionate Data Scientist with a strong focus on Business Analytics and AI-driven solutions. I specialize in transforming complex business data into actionable insights, leveraging advanced techniques in data analysis, machine learning, and natural language processing. When I'm not diving into data, you can find me challenging myself on coding platforms like LeetCode.
 
 ---
 
-## 🛠️ Production-Grade Stack
+## About Me
+
+- 🔭 Currently expanding my expertise in advanced analytics and interactive visualizations.
+- 🌱 Always eager to collaborate on innovative projects related to business data analysis and AI-driven insights.
+- 👯 Passionate about turning data into compelling stories that drive strategic decision-making.
+- 📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/pranav-padmanabhan-903934249/).
+- ⚡ Fun fact: I love tackling complex problems on LeetCode to continuously sharpen my problem-solving skills.
+
+---
+
+## Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/TensorFlow-Certified-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/GeoPandas-Geospatial-150458?style=flat&logo=pandas&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Flask-API_Dev-000000?style=flat&logo=flask&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/PostGIS-Spatial_DB-336791?style=flat&logo=postgresql&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/OpenAI-Advanced_NLP-412991?style=flat&logo=openai&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-2C7BB6?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 </div>
 
 ---
 
-## 🌍 Flagship Project: Rihla AI Travel Guide
+## LeetCode Profile
 
-[![Rihla Demo](https://img.shields.io/badge/Live_Demo-AI_Travel_Guide-blue?style=for-the-badge)](https://rihla-ai.vercel.app/)
-
-**Multi-Modal Travel Assistant | Geospatial NLP | Personalized Recommendations**
-
-- **Architecture**: Flask + React + OpenAI GPT-4 + GeoPy
-- **Key Features**:
-  - 🗺️ Context-aware itinerary generation using location embeddings
-  - 🌟 Personality-based recommendation engine (MBTI integration)
-  - 📍 Real-time POI mapping with OpenStreetMap integration
-- **Performance**:
-  - 87% user satisfaction in beta testing (150+ users)
-  - 40% faster trip planning compared to traditional tools
-- **Tech Highlights**:
-  - Hybrid recommendation system (collaborative + content-based filtering)
-  - Geospatial clustering with DBSCAN algorithm
-  - CI/CD pipeline with GitHub Actions
-
-**Explore the Code**: [Rihla AI Repository](https://github.com/Pranav9605/Rihla-AI-Travel-Guide)
+I regularly solve coding challenges to keep my problem-solving skills sharp:
+- **Problems Solved:**  XX+  
+- **Ranking:** Top Y%  
+Check out my LeetCode profile: [LeetCode Profile](https://leetcode.com/u/pranavpadmanabhan1234/)
 
 ---
 
-## 🏆 Production-Proven Projects
+## Pinned Projects
 
-### 🎬 [IMDB Sentiment Analysis](https://github.com/Pranav9605/Movie_sentiment_analysis_RNN)
-**Bidirectional GRU | Text Processing Pipeline**
-- Achieved 89% accuracy on 50K+ review dataset
-- Reduced training time by 35% using CuDNN acceleration
-- Deployed as Dockerized microservice
+- **[Movie Sentiment Analysis RNN](https://github.com/Pranav9605/Movie_sentiment_analysis_RNN)**  
+  Analyzes IMDB reviews using a Recurrent Neural Network to determine sentiment.
 
-### 📚 [Hybrid Text Summarizer](https://github.com/Pranav9605/storysummarizer-api)
-**BERT Extractive + GPT-2 Abstractive | FastAPI**
-- 83% ROUGE-L score on arXiv dataset
-- Horizontal scaling with Redis queue
-- 98% uptime on AWS EC2 over 6 months
+- **[Story Summarizer API](https://github.com/Pranav9605/storysummarizer-api)**  
+  An API that combines extractive and abstractive summarization techniques to generate concise story summaries.
 
-### 🎓 [Admission Predictor](https://github.com/Pranav9605/Graduate-Admission-Prediction-with-Machine-Learning)
-**XGBoost Ensemble | SHAP Explanations**
-- 0.87 R² score with LIME interpretability
-- Automated hyperparameter tuning with Optuna
-- Interactive Dash dashboard for scenario analysis
+- **[Graduate Admission Prediction with Machine Learning](https://github.com/Pranav9605/Graduate-Admission-Prediction-with-Machine-Learning)**  
+  Predicts graduate admission outcomes using machine learning techniques.
+
+- **[AI Travel Planner](https://github.com/YourGitHubLink)**  
+  An AI-powered travel planner that generates personalized itineraries, forecasts travel costs, and integrates data extraction, NLP, and predictive modeling to deliver dynamic travel recommendations.
 
 ---
 
-## 📚 Technical Writing
+## GitHub Stats
 
-[![Medium Articles](https://img.shields.io/badge/Featured_on-Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@pranavpadmanabhan9605)
-
-- [Building Geospatial AI: Lessons from Rihla Travel Guide](https://medium.com/p/123geo)
-- [Optimizing LSTM Networks for Production Sentiment Analysis](https://medium.com/p/456lstm)
-- [From Jupyter to Production: MLOps for Small Teams](https://medium.com/p/789mlops)
+[![Pranav9605's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranav9605&show_icons=true&theme=radical)](https://github.com/Pranav9605)
 
 ---
 
-## 🏻 Engineering Rigor
+## Connect with Me
 
-<div align="center">
-  <a href="https://github.com/Pranav9605">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranav9605&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav9605&layout=compact&theme=vision-friendly-dark&hide=css,html"/>
-  </a>
-  <br>
-  <img src="https://leetcard.jacoblin.cool/Pranav9605?theme=dark&font=Karma&ext=contest" width="60%">
-</div>
+Feel free to follow me on GitHub and connect with me on [LinkedIn](https://www.linkedin.com/in/pranav-padmanabhan-903934249/).
 
 ---
 
-## 🤝 Let's Build the Future
+© 2025 Pranav Padmanabhan
 
-Ready to **deploy AI that creates real business value?** Let's connect:
+---
 
-[![Email](https://img.shields.io/badge/Contact_Me-Proposal_Ready-important?style=for-the-badge&logo=gmail)](mailto:pranavpadmanabhan9605@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Network_Professionally-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranav-padmanabhan-903934249/)
-
-<img src="https://komarev.com/ghpvc/?username=Pranav9605&label=Profile+Views&color=blueviolet&style=flat" align="right">
+This README concisely presents your technical skills, projects, and professional profile. It’s structured to capture the attention of recruiters and collaborators while highlighting your experience in data science and AI-driven travel solutions. Adjust any placeholder details as needed.
