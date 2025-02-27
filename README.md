@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pranav-padmanabhan-903934249/">
-    <img src="https://img.shields.io/badge/-Connect_Pro-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranav-padmanabhan-903934249/">
   </a>
   <br>
   <a href="https://medium.com/@pranavpadmanabhan1234">
@@ -29,23 +29,29 @@ I'm a Data Scientist and AI/ML enthusiast specializing in business analytics, pr
 - **🚀 Passionate About:** Data-driven storytelling and building intelligent systems 
 ---
 
+
+
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="28">
-  <br>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white" height="28">
-  <br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/BeautifulSoup-FFCC33?style=flat&logo=beautifulsoup&logoColor=black" height="28">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/spaCy-306998?style=flat&logo=spacy&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/MLX-FF9900?style=flat&logo=data&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Unsloth-6A0DAD?style=flat&logo=data&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/QLoRA-009688?style=flat&logo=python&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Prophet-2C3E50?style=flat&logo=facebook&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/RAG-FFC300?style=flat&logo=python&logoColor=black" height="28">
 </div>
 
----
 ---
 
 ## 🧮 Coding Profiles
